@@ -1,0 +1,19 @@
+[
+    {
+        name: "Mucahid",
+        age: 30,
+        salary: 5000
+    },
+    
+    {
+        name: "Hakan",
+        age: 20,
+        salary: 2000
+    },
+    
+    {
+        name: "Talha",
+        age: 30,
+        salary: 8500
+    }
+]

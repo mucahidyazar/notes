@@ -1,0 +1,32 @@
+{
+    "date": "Wed, 12 Dec 2018 10:07:35 GMT",
+    "users": [
+        {
+            "firstname": "Mucahid",
+            "lastname": "Yazar",
+            "username": "mucahidyazar",
+            "password": 05369120161,
+            "city": "Istanbul",
+            "country": "Turkey",
+            "adress": "Camcesme Mahallesi Ressam Sokak No:19 D:9, 34899, Pendik"
+        },
+        {
+            "firstname": "Mucahid",
+            "lastname": "Yazar",
+            "username": "mucahidyazar",
+            "password": 05369120161,
+            "city": "Istanbul",
+            "country": "Turkey",
+            "adress": "Camcesme Mahallesi Ressam Sokak No:19 D:9, 34899, Pendik"
+        },
+        {
+            "firstname": "Mucahid",
+            "lastname": "Yazar",
+            "username": "mucahidyazar",
+            "password": 05369120161,
+            "city": "Istanbul",
+            "country": "Turkey",
+            "adress": "Camcesme Mahallesi Ressam Sokak No:19 D:9, 34899, Pendik"
+        }
+    ]
+}
